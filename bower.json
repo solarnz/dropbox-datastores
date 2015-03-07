@@ -1,0 +1,14 @@
+{
+  "name": "dropbox-datastores",
+  "version": "1.2.0",
+  "authors": [
+    "Chris Trotman <chris@trotman.io>"
+  ],
+  "description": "A bower repository mirror of the Dropbox Datastores JS SDK",
+  "main": "lib/dropbox-datastores.js",
+  "keywords": [
+    "Dropbox"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://www.dropbox.com/developers/datastore/sdks/js"
+}
